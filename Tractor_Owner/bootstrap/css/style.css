@@ -1,0 +1,27 @@
+.mwass{
+	height:260px;
+	width: 700px;
+	float:relative;
+}
+#edu{
+	height: 250px;
+	width: 250px;
+	float:left;
+	margin-left:150px;
+	border: 2px solid black;
+	background-color: violet;
+	border-radius: 25px;
+	padding-right: 0px;
+}
+#float{
+	padding-left:0px;
+	margin:0px;
+	height: 250px;
+	width: 250px;
+	float:left;
+	border: 2px solid black;
+	background-color: violet;
+	border-radius: 25px;
+	margin-top:0px;
+	position: relative;
+}
